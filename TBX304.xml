@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <project name="lenovo-msm8917/android_device_lenovo_TBX304" path="device/lenovo/TBX304" remote="github" revision="lineage-18.1" />
+	<project name="lenovo-msm8917/device_lenovo_tb-common" path="device/lenovo/tb-common" remote="github" revision="lineage-18.1-msm8937" />
     <project name="lenovo-msm8917/kernel_lenovo_msm8917" path="kernel/lenovo/msm8917" remote="github" revision="lineage-21.0" />
     <project name="lenovo-msm8917/vendor_lenovo" path="vendor/lenovo" remote="github" revision="lineage-18.1-msm8937" />
 </manifest>
