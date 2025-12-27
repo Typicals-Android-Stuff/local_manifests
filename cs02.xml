@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <project path="device/samsung/cs02" name="Typicals-Android-Stuff/android_device_samsung_cs02" revision="cm-11.0" remote="github" />
+ <project path="vendor/samsung/cs02" name="SiniTurk/android_vendor_samsung_cs02" revision="cm-11.0" remote="github" />
+ <project path="kernel/samsung/cs02" name="Typicals-Android-Stuff/android_kernel_samsung_cs02" revision="base-3.4.113-patched" remote="github" />
+</manifest>
+
