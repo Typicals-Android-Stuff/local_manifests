@@ -5,7 +5,6 @@
  <project path="device/samsung/msm7x27a-common" name="Typicals-Android-Stuff/android_device_samsung_msm7x27a-common" revision="ics" />
  <project path="vendor/samsung" name="Typicals-Android-Stuff/proprietary_vendor_samsung_msm7x27a" revision="ics" />
  <project path="hardware/qcom/fm" name="Typicals-Android-Stuff/android_hardware_qcom_fm" revision="ics" />
- <project path="hardware/qcom/media" name="android-legacy/android_hardware_qcom_media" revision="ics" />
  <project path="packages/apps/FM2" name="Typicals-Android-Stuff/android_packages_apps_FM2" revision="ics" />
  <remove-project name="CyanogenMod/android_vendor_cm" />
  <remove-project name="CyanogenMod/platform_hardware_libhardware_legacy" />
